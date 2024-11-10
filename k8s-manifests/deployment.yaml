@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client-container
-          image: askyourmentors/yourmentors_fe:4
+          image: askyourmentors/yourmentors_fe:3
           ports:
             - containerPort: 80
