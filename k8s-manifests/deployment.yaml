@@ -13,7 +13,7 @@ spec:
         app: client
     spec:
       containers:
-        - name: client-container
+        - name: client-containerrrrrr
           image: nginx
           ports:
             - containerPort: 80
